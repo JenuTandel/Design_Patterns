@@ -1,0 +1,7 @@
+Email Singature Generator
+Angular 16 features
+Dependency Injection in Angular
+
+
+Next Goals:
+Learn Eisenhower matrix and will try to implement Eisenhower matrix template in Angular.
